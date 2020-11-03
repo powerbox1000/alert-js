@@ -52,7 +52,7 @@ var style = `.success {
   background-color: #ff9800;
   color: white;
 }`;
-injectEl.innerHTML = el + '\n<style>' + style + '</style>;
+injectEl.innerHTML = el + '\n<style>' + style + '</style>';
 };
 
 
